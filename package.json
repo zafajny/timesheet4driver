@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/zafajny/timesheet4driver/issues"
   },
-  "homepage": "https://github.com/zafajny/timesheet4driver#readme"
+  "homepage": "https://github.com/zafajny/timesheet4driver#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
 }
