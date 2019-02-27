@@ -1,0 +1,20 @@
+{
+  "name": "timesheet4driver",
+  "version": "1.0.0",
+  "description": "Website for www.timesheet4driver.co.uk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafajny/timesheet4driver.git"
+  },
+  "keywords": [],
+  "author": "Jacek Kowalczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zafajny/timesheet4driver/issues"
+  },
+  "homepage": "https://github.com/zafajny/timesheet4driver#readme"
+}
